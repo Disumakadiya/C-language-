@@ -18,6 +18,7 @@ void main()
    printf("enter the no. of columns");
    scanf("%d",&C);
 
+   //nested loop used
    for(r=1;r<=R;r++)
    {
        for(c=1;c<=C;c++)
@@ -25,5 +26,6 @@ void main()
           printf("%4d",r*c);
        }
        printf("\n");
+   //display multiplication table as per user
    }
 }
