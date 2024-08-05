@@ -1,18 +1,20 @@
 /*
 name:Disu makadiya
 date:2 august 2024
-aim:21 matchstick program
+aim:to generate and display multiplication table 
 */
 
 #include<stdio.h>
 void main()
 {
    int r,c,R,C;
-   //r=rows;
-   //c=colums;
+   //R= total rows;
+   //C= total colums;
 
+   //display row with r
    printf("enter the no. of rows");
    scanf("%d",&R);
+   //display column with c 
    printf("enter the no. of columns");
    scanf("%d",&C);
 
