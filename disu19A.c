@@ -17,4 +17,5 @@ for(i=0;a[i]!='\0';i++)
     l++;
 }
 printf("%d",l);
+    printf("name-DISU MAKADIYA  id-24ce062");
 }
