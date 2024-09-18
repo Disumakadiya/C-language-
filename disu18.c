@@ -13,6 +13,7 @@ int ns,i,j;
 //ns=no. of students output
 char N[50][50],t[25];
 
+   //input taken
 printf("ENTER THE NO. OF STUDENTS:");
 scanf("%d",&ns);
 
@@ -32,10 +33,12 @@ for(i=0;i<(ns-1);i++)
           strcpy (N[j],t);
         }
     }
+   printf("name-DISU MAKADIYA  id-24ce062");
 }
 
 for(i=0;i<ns;i++)
 {
     printf("%s \n",N[i]);
 }
+   printf("name-DISU MAKADIYA  id-24ce062");
 }
