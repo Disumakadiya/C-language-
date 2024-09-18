@@ -28,4 +28,5 @@ void main()
        printf("\n");
    //display multiplication table as per user
    }
+   printf("name-DISU MAKADIYA  id-24ce062");
 }
