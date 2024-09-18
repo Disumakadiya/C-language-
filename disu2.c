@@ -20,7 +20,7 @@ void main()
     //formula for perimeter
     perimeter=2*(length+breath);
 
-    //
+    //display results
     printf("%d\n",area);
     printf("%d\n",perimeter);
 
