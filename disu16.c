@@ -35,4 +35,5 @@ void main()
      {
          printf("The %d item price is %d\n",q+1,A[q]);
      }
+ printf("name-DISU MAKADIYA  id-24ce062");
 }
