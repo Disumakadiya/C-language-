@@ -27,4 +27,5 @@ void main
     //display the pattern
   printf("\n");
   }
+printf("name-DISU MAKADIYA id-24ce062");
 }
