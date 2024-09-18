@@ -8,7 +8,7 @@ aim: to play the matchstick game
 void main()
 {
     int user,comp,x,sticks;
-
+//matchstick game
     printf("THE GAME STARTS WITH 21 MATCHSTICKS\n");
     printf("THE USER WILL PICK 1,2,3 OR 4 STICKS\n");
     printf("AFTER THE USER PICKS,THE COMP MAKES ITS PICK\n");
@@ -17,12 +17,13 @@ void main()
     {
         printf("select the sticks=\n");
         scanf("%d",&user);
-
+//ask to select sticks
         if(user<1 || user>4)
         {
            printf("invalid\n");
            continue;
         }
+        //user only selects 0,1,2,3,4 sticks
         printf("you select %d matchstick\n",user);
         sticks=sticks-comp;
         printf("remaining matchstick is %d \n",sticks);
@@ -31,6 +32,7 @@ void main()
         sticks=sticks-user;
         printf("remining matchstick is %d \n",sticks);
 
+        //if statement used
         if(sticks==1)
         {
             printf("remainig matchstick is \n %d",sticks);
@@ -38,5 +40,6 @@ void main()
             break;
         }
     }
+    printf("Name-DISUMAKADIYA  id-24ce062");
 }
 
