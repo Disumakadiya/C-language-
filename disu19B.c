@@ -23,4 +23,6 @@ for(i=l-1,j=0;i>=0;j++,i--)
 }
 a2[j]='\0';
 printf("%s",a2);
+
+    printf("name- DISU MAKADIYA  id-24ce062");
 }
