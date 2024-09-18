@@ -23,4 +23,7 @@ void main()
     //
     printf("%d\n",area);
     printf("%d\n",perimeter);
+
+
+    printf("Name-Disu Makadiya id-24ce062");
 }
