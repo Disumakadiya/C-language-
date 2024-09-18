@@ -24,4 +24,5 @@ for(i=1;i<=m;i++)
  }
   //display total budget 
  printf("your budget is %d",a);
+  printf("name-Disu Makadiya  id-24ce062");
 }
