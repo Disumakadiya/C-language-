@@ -12,6 +12,7 @@ void main()
      //r=row//c=columns
      //n=no. of rows
  int r,c,x,n;
+ printf("ENTER THE NO.OF ROWS:");
  scanf("%d",&n);
   for(r=1;r<=n;r++)
   {
@@ -23,10 +24,10 @@ void main()
     for(c=(n-r+1);c<=n;c++)
     {
         //displaying the pattern
-        printf("%   d",x);
+        printf("%2d",x);
         x++;
     }
      printf("\n");
-       printf("name-DISU MAKADIYA  id-24ce062");
   }
+       printf("name-DISU MAKADIYA  id-24ce062");
 }
