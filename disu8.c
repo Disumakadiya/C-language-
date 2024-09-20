@@ -42,4 +42,5 @@ void main()
             BillAmount+=Frenchfries;
             goto x;
     }
+    printf("name-disu makadiya id-24CE062");
 }
