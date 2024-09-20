@@ -47,13 +47,8 @@ void main()
  printf("no. of negative no.are %d \n",b);
  printf("no. of even are %d \n",c);
  printf("no. of odd are %d \n",d);
-
-
-       printf("name-DISU MAKADIYA  id-24ce062");
    }
 
-
-
-
    }
+    printf("Naame-DISU MAKADIYA  id-24CE062");
 }
