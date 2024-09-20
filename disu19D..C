@@ -30,5 +30,7 @@ a2[j]='\0';
 
 printf("COPY THE NOTE:%s",a2);
 //copy the note
+
+printf("Name-DISU MAKADIYA   ID-24CE062");
 return 0;
 }
