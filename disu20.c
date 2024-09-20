@@ -74,6 +74,8 @@ float avg(int b[],int y)
     }
      r=(float) w/y;
      //r=avg.written
+
+    printf("name-DISU MAKADIYA  id-24CE062");
     return r;
 }
 
