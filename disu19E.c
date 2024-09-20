@@ -40,4 +40,5 @@ for(j=i;j<l;j++)
 a3[j+1]='\0';
 printf("%s",a3);
 
+    printf("Name-DISU MAKADIYA  id-24CE062 ");
 }
