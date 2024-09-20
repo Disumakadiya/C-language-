@@ -18,5 +18,7 @@ void main()
    fahrenheit=(celsius*9/5)+32;
 
    printf("%f\n",fah);
+
+   printf("name-DISU MAKADIYA  id-24CE062");
 }
 
