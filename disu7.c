@@ -41,6 +41,6 @@ void main()
     {
         printf("SUMAN AND RAMAN BOTH ARE EQUALLY WEALTHIER");
     }
-
+printf("name-DISU MAKADIYA  id-24CE062");
 
 }
