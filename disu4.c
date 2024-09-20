@@ -43,4 +43,6 @@ void main()
    printf("total illiterate women:%ld\n",total_illiterate_women);
    printf("total illiterate men:%ld\n",total_illiterate_men);
 
+   printf("name-DISU MAKADIYA  id-24CE062");
+
    }
