@@ -36,4 +36,5 @@ void main()
     default:
         printf("invalid user input");
     }
+ printf("name-DISU MAKADIYA  id-24CE062"); 
 }
