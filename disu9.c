@@ -30,4 +30,5 @@ void main()
     {
         printf("grade E");
     }
+   printf("name-DISU MAKADIA   id-24CE062 ");
 }
