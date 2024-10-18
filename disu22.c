@@ -28,10 +28,14 @@ for(i=0;i<n;i++)
  }
  //total marks
 sum=total_Marks(n,Marks);
+  printf("---------");
 //avg. marks
 avg_Marks(sum,n);
+  printf("---------");
 //highest-lowest marks 
 highest_lowest_Marks(n,Marks);
+printf("---------");
+  printf("Disu Makadiya \n student id:24CE062");
 }
 
 //function definition 
