@@ -19,6 +19,6 @@ void main()
 
    printf("%f\n",fah);
 
-   printf("name-DISU MAKADIYA  id-24CE062");
+   printf("name-DISU MAKADIYA  \n id-24CE062");
 }
 
