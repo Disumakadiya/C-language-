@@ -5,11 +5,11 @@ aim : to display the countdown timer
 */
 
 #include<stdio.h>
-void main
-(
+void main()
+{
   //display timer
   int second,x;
-  printf("ENTER THE SECOND FOR TIMER:");
+  printf("ENTER THE STARTING  SECOND FOR TIMER:");
   scanf("%d",&second);
 
     //used for loop
@@ -18,5 +18,7 @@ void main
        printf("%2d\r",x);
        sleep(second);
    }
+printf("countdown is over...");
+printf ("---------------");
 printf("Name-disu makadiya  id-24ce062");
 }
