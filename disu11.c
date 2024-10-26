@@ -17,7 +17,7 @@ void main()
     {
         printf("select the sticks=\n");
         scanf("%d",&user);
-//ask to select sticks
+        //ask to select sticks
         if(user<1 || user>4)
         {
            printf("invalid\n");
