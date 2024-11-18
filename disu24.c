@@ -31,6 +31,7 @@ void main()
 
     details_Book(b);//struct function call
 
+  printf("******\n");
     printf("DISU MAKADIYA \n student id:24CE062");
 }
 
