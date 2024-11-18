@@ -50,5 +50,7 @@ void main()
     else
         printf("INVALID DATA");
 
+        printf("*******\n");
         printf("\nDISU MAKADIYA student id:24CE062");
 }
+
